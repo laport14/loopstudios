@@ -1,0 +1,27 @@
+.banner-container {
+  display: flex;
+  margin: 6em 12em;
+
+}
+
+
+.banner-detail {
+  position: relative;
+  top: 280px;
+  right: 150px;
+  width: 450px;
+  padding: 45px 40px 10px 60px;
+  text-align: left;
+  background-color: white;
+  display: table;
+}
+
+.banner-detail p {
+  font-size: 14px;
+}
+
+.banner-detail h1 {
+  margin: 0;
+  letter-spacing: 2px;
+  font-weight: 200;
+}

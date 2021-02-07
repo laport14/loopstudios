@@ -1,0 +1,33 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em 12em;
+  justify-content: space-around;
+}
+
+.card-container img {
+  margin: 4px 0px 4px 0px;
+}
+
+.earth-div {
+  position: relative;
+}
+
+.earth-text {
+  position: absolute;
+  color: white;
+  font-size: 26px;
+  font-weight: 300;
+  bottom: 30px;
+  left: 30px;
+}
+
+.bottom-text {
+  position: absolute;
+  color: white;
+  font-size: 26px;
+  font-weight: 300;
+  bottom: 30px;
+  left: 30px;
+  margin: 0;
+}

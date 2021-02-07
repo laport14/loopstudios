@@ -1,0 +1,20 @@
+.article-container {
+  display: flex;
+  margin: 8em 12em 2em 12em;
+  justify-content: space-between;
+}
+
+.article-button button{
+  color: white;
+  background-color: black;
+  letter-spacing: .5px;
+  border: none;
+  padding: 7px 30px 7px 30px;
+  font-weight: 600;
+}
+
+.title-article {
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: 2px;
+}

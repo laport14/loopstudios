@@ -1,0 +1,33 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  background-image: url(../../../assets/images/desktop/image-hero.jpg);
+  background: cover center;
+  height: 60vh;
+  color: white;
+}
+
+.title {
+  margin-top: 20px;
+}
+
+.title h1 {
+  margin: 0px;
+}
+
+.links ul li{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 7%;
+}
+
+.links ul{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+
+.links {
+  margin-top: 20px;
+}
